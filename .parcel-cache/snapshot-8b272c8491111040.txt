@@ -8440,8 +8440,8 @@
 35D:\React\node_modules\.bin\yaml.cmd133726160394098554 0
 35D:\React\node_modules\.bin\yaml.ps1133726160394078567 0
 21D:\React\img\job.jpeg133523956696938328 0
-32D:\React\dist\index.3a01df49.css133755286973496231 0
 31D:\React\dist\food.fed72959.jpg133755286973496231 0
-24D:\React\dist\index.html133755286974743526 0
-31D:\React\dist\index.7271efb6.js133755286974743526 0
 37D:\React\dist\Grocery.c52c2ad2.js.map133755286974798214 0
+32D:\React\dist\index.3a01df49.css133755286973496231 0
+31D:\React\dist\index.7271efb6.js133755286974743526 0
+24D:\React\dist\index.html133755286974743526 0
